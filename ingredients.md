@@ -1,4 +1,4 @@
-Here are the ingredients to make the burger: [here's a link to the steps to make the burger] (https://great4geek.github.io/how-to-make-a-burger/recipe.md)
+Here are the ingredients to make the burger: [here's a link to the steps to make the burger](https://great4geek.github.io/how-to-make-a-burger/recipe.md)
 
 1. burger buns
 2. lettuce
